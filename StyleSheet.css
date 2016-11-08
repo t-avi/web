@@ -1,0 +1,81 @@
+﻿body {
+    background-color: grey;
+}
+
+H1 {
+    color: navy;
+    font-size: 35px;
+    margin-top: 30px;
+    font-family: 'Comfortaa', cursive;
+}
+
+H2 {   
+    color: navy;
+    font-size: 20px;
+    margin-top: 15px;
+    font-family: 'Poiret One', cursive;
+}
+
+IMG {
+   
+    width: 200px;
+    border: 3px double navy;
+}
+
+P {   
+    font-family: 'Neucha', cursive; 
+    font: 20px;
+    color: firebrick;
+}
+
+DIV {
+    font-family: 'Neucha', cursive;
+    font: 14px;
+    color: black;
+}
+
+PRE {
+    font-family: 'Neucha', cursive;
+    font: 20px;
+    color: navy;
+}
+
+BLOCKQUOTE {
+    text-align: right;
+}
+
+STRONG {
+    font-family: 'Neucha', cursive;
+    font: 800 14px;
+}
+
+UL, OL {
+    color:maroon; 
+}
+
+
+LI {
+   font-family: 'Neucha', cursive;
+   font: bold 14px;
+}
+
+TABLE {
+    border: 3px double navy;
+    width: 205px;
+}
+
+THEAD {
+    font-family: 'Neucha', cursive;
+    font: bold 14px;
+}
+
+TBODY {
+    font-family: 'Neucha', cursive;
+    font: 14px;
+}
+
+.Megagreenbluetext {
+    color: Red;
+    font-size: 40px;
+}
+
